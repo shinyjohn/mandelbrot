@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83C606A3-8D77-42CF-B4B7-427CC9997C53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66B608EC-8FDC-40D9-AE5D-15B2D1762D84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MandelbrotTest/MandelbrotView/MandelbrotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "drawMandelbrot()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66B608EC-8FDC-40D9-AE5D-15B2D1762D84 - 721995d25d0307e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MandelbrotTest.MandelbrotVC.drawMandelbrot() -&gt; ()"
+                  moduleName = "MandelbrotTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/MandelbrotTest/MandelbrotTest/MandelbrotView/MandelbrotVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2052">
+               </Location>
+               <Location
+                  uuid = "66B608EC-8FDC-40D9-AE5D-15B2D1762D84 - 721995d25d0307e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MandelbrotTest.MandelbrotVC.drawMandelbrot() -&gt; ()"
+                  moduleName = "MandelbrotTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/MandelbrotTest/MandelbrotTest/MandelbrotView/MandelbrotVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2010">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
